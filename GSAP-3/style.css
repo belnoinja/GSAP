@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #111;
+}
+
+.container {
+    height: 200px;
+    width: 100%;
+
+}
+
+#string {
+    height: 500px;
+    width: 100%;
+    /* background-color: red; */
+}
